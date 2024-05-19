@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Najmi Zulhusni, a passionate developer with a keen interest in data analytics and visualization.
+I'm Najmi Zulhusni, a passionate developer with a keen interest in data analytics & visualization and software development.
 
 
 ## 📊 This week I spent my time on:
