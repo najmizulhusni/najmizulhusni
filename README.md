@@ -2,7 +2,7 @@
 
 > **Data Integration Developer** — automation-focused, data-driven, and product-minded.
 
-[![Email](https://img.shields.io/badge/Email-najmisapuan02%40gmail.com-0078D4?style=flat-square\&logo=maildotru)](mailto:najmisapuan02@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-najmizulhusni-0A66C2?style=flat-square\&logo=linkedin)]([https://linkedin.com/in/najmizulhusni](https://www.linkedin.com/in/najmi-zulhusni/))
+[![Email](https://img.shields.io/badge/Email-najmisapuan02%40gmail.com-0078D4?style=flat-square\&logo=maildotru)](mailto:najmisapuan02@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-najmizulhusni-0A66C2?style=flat-square\&logo=linkedin)]([https://www.linkedin.com/in/najmi-zulhusni/](https://www.linkedin.com/in/najmi-zulhusni/))
 
 ---
 
