@@ -1,9 +1,6 @@
 # Najmi Zulhusni 👋
 
 > **Data Integration Developer** — automation-focused, data-driven, and product-minded.
-
-[![Email](https://img.shields.io/badge/Email-najmisapuan02%40gmail.com-0078D4?style=flat-square\&logo=maildotru)](mailto:najmisapuan02@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-najmizulhusni-0A66C2?style=flat-square\&logo=linkedin)]([https://www.linkedin.com/in/najmi-zulhusni/](https://www.linkedin.com/in/najmi-zulhusni/))
-
 ---
 
 ## 🔭 About Me
@@ -55,7 +52,7 @@ I build automation-first data solutions that connect systems, clean and model da
 Open to collaborations, freelance work, and full-time roles.
 
 * Email: [najmisapuan02@gmail.com](mailto:najmisapuan02@gmail.com)
-* LinkedIn: [[https://linkedin.com/in/najmizulhusni](https://www.linkedin.com/in/najmi-zulhusni/)]([https://linkedin.com/in/najmizulhusni](https://www.linkedin.com/in/najmi-zulhusni/))
+* LinkedIn:([https://linkedin.com/in/najmizulhusni](https://www.linkedin.com/in/najmi-zulhusni/))
 
 ---
 
