@@ -1,59 +1,45 @@
-# Najmi Zulhusni 👋
+# Najmi Zulhusni
 
-> **Data Integration Developer** — automation-focused, data-driven, and product-minded.
----
-
-## 🔭 About Me
-
-I build automation-first data solutions that connect systems, clean and model data, and surface insights to stakeholders. I focus on robust engineering practices — containerization, modular services, and reproducible data pipelines.
+Full-stack developer building web applications and automation solutions.
 
 ---
 
-## 🛠️ Featured Projects
+## About Me
 
-### 🎯 **Final Year Project — Chrome Extension: Eye-Gaze Tracking for Online Education**
-
-* Real-time **eye-gaze tracking** implemented with **MediaPipe** inside a Chrome Extension to improve student engagement monitoring.
-* **PostgreSQL** backend hosted on **Supabase** for storing gaze & session telemetry to analyze engagement patterns.
-* **Dockerized** backend services for reproducible and scalable deployment.
-* Analytics dashboard exposing educator-facing metrics and engagement visualizations.
-
-### 📊 **Malaysia Education Performance Tracker (Power BI)**
-
-* Interactive **Power BI** dashboard tracking education KPIs across Malaysian states and time.
-* Well-designed data model, calculated measures, and drill-through pages to identify trends and gaps.
-
-### ⚙️ **Automation & System Integration**
-
-* Building automation pipelines, scheduled jobs, and API integrations to reduce manual operations.
-* Emphasis on modular, testable, and maintainable code (no hardcoding): use of environment variables, configuration files, and CI-friendly patterns.
+I develop web applications with a focus on clean code, user experience, and reliable backend systems. Currently working on villa management and booking platforms.
 
 ---
 
-## 💡 Stack & Skills
+## Featured Projects
 
-* **Data & Analytics:** Python (pandas), Power BI, Tableau
-* **Back-end & DB:** PostgreSQL, Supabase, REST APIs
-* **Automation & DevOps:** Docker, CI/CD concepts, workflow automation
-* **Frontend / Extensions:** Chrome Extensions, MediaPipe integration
+### 🏡 **Lavender Villa Melaka**
 
----
+A modern booking platform for a family villa in Melaka.
 
-## 📂 How I Work
+- **Frontend:** React 18 + Tailwind CSS + Vite
+- **Backend:** Supabase (PostgreSQL) with Row Level Security
+- **Features:** Real-time booking calendar, admin dashboard, WhatsApp integration, automated pricing
+- **Hosting:** Vercel (with automatic SSL)
 
-* I design with **reusability** and **configurability** in mind — avoid hardcoded values, prefer environment-driven configs.
-* I containerize services for consistent environments and easy scaling.
-* I instrument telemetry (logs + metrics) to ensure observability of pipelines and user-facing features.
+**Live:** [lavender-villa.vercel.app](https://lavender-villa.vercel.app)
 
 ---
 
-## 📬 Contact
+## Skills
 
-Open to collaborations, freelance work, and full-time roles.
-
-* Email: [najmisapuan02@gmail.com](mailto:najmisapuan02@gmail.com)
-* LinkedIn:([https://linkedin.com/in/najmizulhusni](https://www.linkedin.com/in/najmi-zulhusni/))
+- **Frontend:** React, JavaScript, Tailwind CSS, Vite
+- **Backend:** Supabase, PostgreSQL, REST APIs
+- **Tools:** Git, Docker basics, CI/CD concepts
+- **Other:** Automation, data integration, system design
 
 ---
 
-*If you want, I can add interactive badges, a dynamic GitHub profile README (with GitHub stats, top languages, and project highlights), or export this as a ready-to-paste `README.md` file.*
+## Contact
+
+- Email: [najmisapuan02@gmail.com](mailto:najmisapuan02@gmail.com)
+- LinkedIn: [linkedin.com/in/najmizulhusni](https://www.linkedin.com/in/najmi-zulhusni/)
+- GitHub: [github.com/najmizulhusni](https://github.com/najmizulhusni)
+
+---
+
+*Open to freelance work and collaborations.*
