@@ -21,7 +21,7 @@ A modern booking platform for a family villa in Melaka.
 - **Features:** Real-time booking calendar, admin dashboard, WhatsApp integration, automated pricing
 - **Hosting:** Vercel (with automatic SSL)
 
-**Live:** [lavender-villa.vercel.app](https://lavender-villa.vercel.app)
+**Live:** [https://www.lavendervillamelaka.com/](https://www.lavendervillamelaka.com/)
 
 ---
 
