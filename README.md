@@ -1,45 +1,36 @@
 # Najmi Zulhusni
+**Data & Integration Developer**
 
-Full-stack developer building web applications and automation solutions.
-
----
-
-## About Me
-
-I develop web applications with a focus on clean code, user experience, and reliable backend systems. Currently working on villa management and booking platforms.
+I engineer connections between enterprise platforms, automate complex workflows, and build AI-powered solutions to eliminate manual technical debt.
 
 ---
 
-## Featured Projects
+## 🚀 Featured Work
 
-### 🏡 **Lavender Villa Melaka**
+### [Lavender Villa Melaka](https://www.lavendervillamelaka.com/)
+A complete homestay booking engine built to handle real-time pricing, secure database management, and automated WhatsApp notifications.
+* **Stack:** React, Tailwind CSS, Supabase (PostgreSQL)
 
-A modern booking platform for a family villa in Melaka.
-
-- **Frontend:** React 18 + Tailwind CSS + Vite
-- **Backend:** Supabase (PostgreSQL) with Row Level Security
-- **Features:** Real-time booking calendar, admin dashboard, WhatsApp integration, automated pricing
-- **Hosting:** Vercel (with automatic SSL)
-
-**Live:** [https://www.lavendervillamelaka.com/](https://www.lavendervillamelaka.com/)
+### SME-Go (AI Automation Architecture)
+An AI-powered Telegram bot that parses natural language chat orders into structured JSON data, automatically generating LHDN-compliant invoices and syncing to Google Sheets.
+* **Stack:** LangChain, Claude API, Telegram API
 
 ---
 
-## Skills
+## 🛠️ Technical Arsenal
 
-- **Frontend:** React, JavaScript, Tailwind CSS, Vite
-- **Backend:** Supabase, PostgreSQL, REST APIs
-- **Tools:** Git, Docker basics, CI/CD concepts
-- **Other:** Automation, data integration, system design
-
----
-
-## Contact
-
-- Email: [najmisapuan02@gmail.com](mailto:najmisapuan02@gmail.com)
-- LinkedIn: [linkedin.com/in/najmizulhusni](https://www.linkedin.com/in/najmi-zulhusni/)
-- GitHub: [github.com/najmizulhusni](https://github.com/najmizulhusni)
+* **Integration & iPaaS:** Workato, Latenode, Celigo, REST APIs, Webhooks
+* **Google Ecosystem:** AppSheet, Apps Script, Looker Studio, Google Workspace APIs
+* **AI & Automation:** LangChain, Claude API, OpenAI, Ollama
+* **Data & Analytics:** Power BI, SQL, Excel, Data Modeling
+* **App Development:** React, JavaScript, Tailwind CSS, Supabase
 
 ---
 
-*Open to freelance work and collaborations.*
+## 📫 Let's Connect
+
+Open to full-time career roles and consulting projects.
+
+- **Email:** [najmisapuan02@gmail.com](mailto:najmisapuan02@gmail.com)
+- **LinkedIn:** [linkedin.com/in/najmi-zulhusni](https://www.linkedin.com/in/najmi-zulhusni/)
+- **GitHub:** [github.com/najmizulhusni](https://github.com/najmizulhusni)
